@@ -1,7 +1,7 @@
 # Python-Codes
 <ul>
   <li>I write the basic programs of python</li>
-  <li>It contains easy and basic programs</li>
+  <li>It contains easy and basic programms</li>
 </ul>
 
 <h3>What is the python</h3>
